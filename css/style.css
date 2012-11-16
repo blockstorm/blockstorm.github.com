@@ -113,6 +113,7 @@ a.headeritem {
 
 a.headeritem:hover {
 	color: #FF4500;
+	text-decoration: none;
 }
 
 #blockstorm {
@@ -162,6 +163,7 @@ a.headeritem:hover {
 
 a.menuitem:hover {
 	color: #242424;
+	text-decoration: none;
 }
 
 #home {

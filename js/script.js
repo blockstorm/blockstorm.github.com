@@ -13,14 +13,14 @@ function setImg(img) {
 function slideshow() {
 	setTimeout(function() {
 		setImg('img/slideshow02.png');
-	}, 5000);
+	}, 6000);
 	
 	setTimeout(function() {
 		setImg('img/slideshow03.png');
-	}, 10000);
+	}, 12000);
 	
 	setTimeout(function() {
 		setImg('img/slideshow01.png');
 		slideshow();
-	}, 15000);
+	}, 18000);
 }

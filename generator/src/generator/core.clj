@@ -22,7 +22,8 @@
        [:title "blockstorm.com"]
        (include-css "./css/style.css")
        (include-js "./js/jquery-1.7.2.min.js")
-       (include-js "./js/script.js")]
+       (include-js "./js/script.js")
+       (include-js "./js/analytics.js")]
       [:body
        [:div#header.shadow ; header
         (link-to {:class "headeritem" :id "blockstorm"} "/" "blockstorm.com")
@@ -42,9 +43,10 @@
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
         ;; (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")
         ;; (link-to {:class "menuitem"} "http://blockstorm.com/videos" "Videos")
-        ]
-       [:div#slideshow ; slideshow
-        (image {:id "current-image"} "./img/slideshow01.png" "Slideshow")]
+        (link-to {:class "menuitem"} "http://blockstorm.com/about" "About")]
+       (if (.equalsIgnoreCase name "index")
+         [:div#slideshow ; slideshow
+          (image {:id "current-image"} "./img/slideshow01.png" "Slideshow")])
        [:div#content.shadow ; content
         [:div#content-container content]]])))
 
