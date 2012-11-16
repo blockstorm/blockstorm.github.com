@@ -40,15 +40,16 @@
         (link-to {:class "menuitem" :id "home"} "/" "Home")
         (link-to {:class "menuitem"} "http://blockstorm.com/faq.html" "FAQ")
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
-        (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")
-        (link-to {:class "menuitem"} "http://blockstorm.com/videos" "Videos")]
+        ;; (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")
+        ;; (link-to {:class "menuitem"} "http://blockstorm.com/videos" "Videos")
+        ]
        [:div#slideshow ; slideshow
         (image {:id "current-image"} "./img/slideshow01.png" "Slideshow")]
        [:div#content.shadow ; content
         [:div#content-container content]]])))
 
 (defn generate
-  "Generates websites for all files in posts/ dir"
+  "Generates websites for all files in pages/ dir"
   []
   (str "Generated "
        (count
@@ -57,7 +58,7 @@
                  (spit (str "../" name ".html")
                        (generate-site name (md->html (slurp (.getAbsolutePath file)))))
                  name))
-             (.listFiles (File. "../posts")))) " files"))
+             (.listFiles (File. "../pages")))) " files"))
 
 (defn -main
   "I don't do a whole lot."
