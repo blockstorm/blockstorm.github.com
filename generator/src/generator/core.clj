@@ -38,7 +38,7 @@
         [:div#logo "blockstorm.com"]
         [:div#description "play.blockstorm.com - Minecraft Bukkit Server since 2011"]]
        [:div#menu.shadow.gradient ; menu
-        (link-to {:class "menuitem" :id "home"} "/" "Home")
+        (link-to {:class "menuitem" :id "home"} "http://blockstorm.com/" "Home")
         (link-to {:class "menuitem"} "http://blockstorm.com/faq.html" "FAQ")
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
         ;; (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")

@@ -1,4 +1,7 @@
+#FAQ
+
 ###What ranks are there?
+
 - Griefer: Players who griefed but aren't banned.
 - Guest: Players who haven't been promoted to Member yet, they can't build or use commands, usually new players.
 - Members: Members of the server can build and use commands.
@@ -8,6 +11,7 @@
 - Admin: Access to all commands.
 
 ###How do I become Member?
+
 In order to become member you should read the [rules] (http://blockstorm.com/rules.html) (type /rules in-game) and ask a member of the staff for a promotion.
 
 ###How do I become VIP?
