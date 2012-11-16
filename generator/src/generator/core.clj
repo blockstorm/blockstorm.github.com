@@ -19,28 +19,29 @@
   ([name content]
      (html5
       [:head
-       [:title name]
+       [:title "blockstorm.com"]
        (include-css "./css/style.css")
        (include-js "./js/jquery-1.7.2.min.js")
        (include-js "./js/script.js")]
       [:body
        [:div#header.shadow ; header
         (link-to {:class "headeritem" :id "blockstorm"} "/" "blockstorm.com")
-        (link-to {:class "headeritem"} "http://google.com/" "YouTube")
-        (link-to {:class "headeritem"} "http://google.com/" "dynmap")
-        (link-to {:class "headeritem"} "http://google.com/" "static map")
-        (link-to {:class "headeritem"} "http://google.com/" "planetminecraft")
-        (link-to {:class "headeritem"} "http://google.com/" "mcservers.org")
-        (link-to {:class "headeritem"} "http://google.com/" "Minecraft Server List")]
+        (link-to {:class "headeritem"} "http://www.youtube.com/user/blockstormcom" "YouTube")
+        (link-to {:class "headeritem"} "http://play.blockstorm.com:8123" "dynmap")
+        (link-to {:class "headeritem"} "http://minecraft.nitrado.net/map/217.198.139.154/" "static map")
+        (link-to {:class "headeritem"} "http://www.planetminecraft.com/server/playblockstormcom/" "planetminecraft")
+        ;; (link-to {:class "headeritem"} "http://google.com/" "mcservers.org")
+        ;; (link-to {:class "headeritem"} "http://google.com/" "Minecraft Server List")
+        ]
        [:div#logo-container ; logo
         [:div#logo "blockstorm.com"]
         [:div#description "play.blockstorm.com - Minecraft Bukkit Server since 2011"]]
        [:div#menu.shadow.gradient ; menu
         (link-to {:class "menuitem" :id "home"} "/" "Home")
-        (link-to {:class "menuitem"} "http://google.com/" "FAQ")
-        (link-to {:class "menuitem"} "http://google.com/" "Donate")
-        (link-to {:class "menuitem"} "http://google.com/" "Pictures")
-        (link-to {:class "menuitem"} "http://google.com/" "Videos")]
+        (link-to {:class "menuitem"} "http://blockstorm.com/faq.html" "FAQ")
+        (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
+        (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")
+        (link-to {:class "menuitem"} "http://blockstorm.com/videos" "Videos")]
        [:div#slideshow ; slideshow
         (image {:id "current-image"} "./img/slideshow01.png" "Slideshow")]
        [:div#content.shadow ; content
