@@ -42,7 +42,7 @@
         (link-to {:class "menuitem"} "http://blockstorm.com/faq.html" "FAQ")
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
         (link-to {:class "menuitem"} "http://blockstorm.com/vote.html" "Vote")
-        (link-to {:class "menuitem"} "http://blockstorm.com/ruleshtml" "Rules")
+        (link-to {:class "menuitem"} "http://blockstorm.com/rules.html" "Rules")
         (link-to {:class "menuitem"} "http://blockstorm.com/about" "About")
         [:div#ip "play.blockstorm.com"]]
        (if (.equalsIgnoreCase name "index")
