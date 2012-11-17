@@ -36,6 +36,6 @@
  c) The staff won't help you here  
 2. **What you are not allowed to do**  
  a) Insult/ annoy other players  
- b) Spamming  
- c) Cheating  
+ b) Spam  
+ c) Cheat  
 Please read /help vanilla

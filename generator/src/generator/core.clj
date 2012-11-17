@@ -41,6 +41,7 @@
         [:a#home {:href "http://blockstorm.com/"}]
         (link-to {:class "menuitem"} "http://blockstorm.com/faq.html" "FAQ")
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
+        (link-to {:class "menuitem"} "http://blockstorm.com/ruleshtml" "Rules")
         [:div#ip "play.blockstorm.com"]
         ;; (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")
         ;; (link-to {:class "menuitem"} "http://blockstorm.com/videos" "Videos")
