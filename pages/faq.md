@@ -1,7 +1,6 @@
 #FAQ
 
 ###What ranks are there?
-
 - Griefer: Players who griefed but aren't banned.
 - Guest: Players who haven't been promoted to Member yet, they can't build or use commands, usually new players.
 - Members: Members of the server can build and use commands.
@@ -10,15 +9,30 @@
 - Moderator: Moderators can /kick, /ban, use logblock, etc.
 - Admin: Access to all commands.
 
-###How do I become Member?
+###Why can't I build/use commands?
+You are probably a member of the [Griefer] or [Guest] group. See below how to become Member.
 
-In order to become member you should read the [rules] (http://blockstorm.com/rules.html) (type /rules in-game) and ask a member of the staff for a promotion.
+###How can I become Member?
+When you first join you will have the [Guest] rank. Make sure you have read the [rules] (http://blockstorm.com/rules.html) (or type /rules in-game) and ask a member of the staff for a promotion. You will become [Member] so that you can build and use commands. This procedure is supposed to prevent new players from griefing while no moderators are online.
 
-###How do I become VIP?
+###How can I become VIP?
 [Donate] (http://blockstorm.com/donate.html)
 
-###How do I become Trusted, Moderator or Admin?
-You don't need to ask for any of these ranks, if the server is looking for staff an admin will contact you.
+###What can VIPs do?
+VIPs:
+
+- can teleport, change weather and time
+- have up to 20 homes
+- are allowed to use client-mods
+- can spawn mobs
+- have access to WorldEdit and creative gamemode
+- get the [VIP] title and another color
+
+Most of the above is only available in the creative, skylands and freebuild worlds to allow other players to still play survival.
+
+
+###How can I become Trusted, Moderator or Admin?
+You don't need to ask for any of these ranks, if the server is looking for staff an admin will contact you. Increase your chances of being chosen by frequently playing on the server and following the rules.
 
 ###Why am I banned?
 Most likely you broke the [rules] (http://blockstorm.com/rules). If you believe that this is an error contact admin[at]blockstorm[dot]com.
@@ -26,5 +40,5 @@ Most likely you broke the [rules] (http://blockstorm.com/rules). If you believe 
 ###What happens after a minecraft update was released?
 Since it usually takes [Bukkit] (http://bukkit.org/) a few days to be updated (and for all its plugins to work properly) players can meanwhile play on a temporary map. We use a temporary map to prevent the actual worlds from being griefed without having to shut down the entire server.
 
-###Any further questions?
+###Your question is not on this page?
 Send a mail to admin[at]blockstorm[dot]com or log in and talk to the staff.
