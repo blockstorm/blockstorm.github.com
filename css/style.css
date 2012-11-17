@@ -182,7 +182,27 @@ a.menuitem:hover {
 }
 
 #home {
-	padding-left: 12px;
+	height: 32px;
+	width: 32px;
+
+	margin-top: 10px;
+	margin-left: 12px;
+	margin-right: 12px;
+	float: left;
+	
+	background:transparent url('../img/home.png') center top no-repeat;
+}
+
+#home:hover {
+	background-image: url('../img/home_dark.png');
+}
+
+#ip {
+	float: right;
+	margin-top: 14px;
+	padding-right: 12px;
+	
+	color: #888888;
 }
 
 /* ### SLIDESHOW ### */
