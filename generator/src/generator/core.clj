@@ -31,9 +31,9 @@
         (link-to {:class "headeritem"} "http://play.blockstorm.com:8123" "dynmap")
         (link-to {:class "headeritem"} "http://minecraft.nitrado.net/map/217.198.139.154/" "static map")
         (link-to {:class "headeritem"} "http://www.planetminecraft.com/server/playblockstormcom/" "planetminecraft")
-        ;; (link-to {:class "headeritem"} "http://google.com/" "mcservers.org")
-        ;; (link-to {:class "headeritem"} "http://google.com/" "Minecraft Server List")
-        ]
+        (link-to {:class "headeritem"} "https://minestatus.net/10335-blockstorm-com" "minestatus.net")
+        (link-to {:class "headeritem"} "http://mcserverlist.net/servers/50a7b59a99b5e4001b000355" "mcserverlist.net")
+        (link-to {:class "headeritem"} "http://mcservers.org/detail/play.blockstorm.com" "mcservers.org")]
        [:div#logo-container ; logo
         [:div#logo "blockstorm.com"]
         [:div#description "play.blockstorm.com - Minecraft Bukkit Server since 2011"]]
@@ -41,11 +41,10 @@
         [:a#home {:href "http://blockstorm.com/"}]
         (link-to {:class "menuitem"} "http://blockstorm.com/faq.html" "FAQ")
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
+        (link-to {:class "menuitem"} "http://blockstorm.com/vote.html" "Vote")
         (link-to {:class "menuitem"} "http://blockstorm.com/ruleshtml" "Rules")
-        [:div#ip "play.blockstorm.com"]
-        ;; (link-to {:class "menuitem"} "http://blockstorm.com/pictures" "Pictures")
-        ;; (link-to {:class "menuitem"} "http://blockstorm.com/videos" "Videos")
-        (link-to {:class "menuitem"} "http://blockstorm.com/about" "About")]
+        (link-to {:class "menuitem"} "http://blockstorm.com/about" "About")
+        [:div#ip "play.blockstorm.com"]]
        (if (.equalsIgnoreCase name "index")
          [:div#slideshow ; slideshow
           (image {:id "current-image"} "./img/slideshow01.png" "Slideshow")])
