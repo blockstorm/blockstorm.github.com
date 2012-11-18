@@ -39,3 +39,11 @@
  b) Spam  
  c) Cheat  
 Please read /help vanilla
+
+##Rules for freebuild (/rules fbuild)
+1. **This world is for**  
+ a) Pixel art  
+ b) Redstone  
+ c) Maps/ arenas  
+ d) etc.  
+2. **All global rules still apply**
