@@ -22,7 +22,7 @@ When you first join you will have the [Guest] rank. Make sure you have read the 
 VIPs:
 
 - can teleport, change weather and time
-- have up to 20 homes
+- have up to 20 homes and /warp
 - are allowed to use client-mods
 - can spawn mobs
 - have access to WorldEdit and creative gamemode
