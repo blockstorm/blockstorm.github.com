@@ -4,5 +4,6 @@ You can vote for blockstorm.com on these pages:
 - [planetminecraft.com] (http://www.planetminecraft.com/server/playblockstormcom/vote/) (every 17? hours)
 - [mcserverlist.net] (http://mcserverlist.net/servers/50a7b59a99b5e4001b000355) (bottom left, click 'Vote', also every 24 hours)
 - [mcservers.org] (http://mcservers.org/detail/play.blockstorm.com) (every 13? hours)
+- [minecraft-server-list.com] (http://minecraft-server-list.com/server/103935/) (once a day)
 
 Just enter your username and fill in the captcha. Every time you donate your iConomy account will be credited with 50$.
