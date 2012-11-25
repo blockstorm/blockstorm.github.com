@@ -26,14 +26,15 @@
        (include-js "./js/analytics.js")]
       [:body
        [:div#header.shadow ; header
-        (link-to {:class "headeritem" :id "blockstorm"} "/" "blockstorm.com")
+        (link-to {:class "headeritem" :id "blockstorm"} "/" "home")
         (link-to {:class "headeritem"} "http://www.youtube.com/user/blockstormcom" "YouTube")
         (link-to {:class "headeritem"} "http://play.blockstorm.com:8123" "dynmap")
         (link-to {:class "headeritem"} "http://minecraft.nitrado.net/map/217.198.139.154/" "static map")
         (link-to {:class "headeritem"} "http://www.planetminecraft.com/server/playblockstormcom/" "planetminecraft")
         (link-to {:class "headeritem"} "https://minestatus.net/10335-blockstorm-com" "minestatus.net")
         (link-to {:class "headeritem"} "http://mcserverlist.net/servers/50a7b59a99b5e4001b000355" "mcserverlist.net")
-        (link-to {:class "headeritem"} "http://mcservers.org/detail/play.blockstorm.com" "mcservers.org")]
+        (link-to {:class "headeritem"} "http://mcservers.org/detail/play.blockstorm.com" "mcservers.org")
+		(link-to {:class "headeritem"} "http://minecraft-server-list.com/server/103935/" "minecraft-server-list.com")]
        [:div#logo-container ; logo
         [:div#logo "blockstorm.com"]
         [:div#description "play.blockstorm.com - Minecraft Bukkit Server since 2011"]]
