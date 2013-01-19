@@ -1,6 +1,6 @@
 #Donate
 
-Below you can donate to blockstorm.com. At the moment we only accept donations through paypal though you don't need to have an account (you can pay with your credit or bank card). If you can't use any of those methods please contact admin[at]blockstorm[dot]com. After donating 5&euro; (approximately 6.20$ or 4&pound;) you will become VIP on the server. See our [FAQ] (http://blockstorm.com/faq.html).
+Below you can donate to blockstorm.com. Currently we are only accepting donations through paypal though you don't need to have an account (you can pay with your credit or bank card). If you are unable pay using any of the methods paypal provides please contact admin[at]blockstorm[dot]com. After donating 5&euro; (approximately 6.20$ or 4&pound;) you will become VIP on the server. See our [FAQ] (http://blockstorm.com/faq.html).
 
 All donations are solely used to pay for the hosting.
 Thank you for supporting the server.

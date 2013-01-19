@@ -1,6 +1,8 @@
-#Rules
+﻿Rules
+=====
 
-##Global Rules (/rules)
+Global Rules
+------------
 
 1. **No griefing**  
  a) Don't destroy other player's creations  
@@ -17,33 +19,35 @@
  a) You are VIP and in the creative, skylands or freebuild worlds  
  b) A member of the staff allowed you to  
 4. **Apart from that moderators and admins decide**  
-5. **If you don't follow these rules expect to be demoted or banned**
+5. **If you don't follow these rules expect to be demoted or banned**  
 
-##Rules for creative and skylands (/rules creative)  
+tl;dr Use common sense and respect the staff.  
+
+Rules for the marketplace
+-------------------------
+
+1. Ask before opening a shop
+2. Don't change the outside of your shop except for torches, signs and item frames
+3. Don't modify other shops
+
+Rules for creative and skylands
+-------------------------------
+
 1. **Don't play survival**  
  a) No shelters, dirt houses, etc.  
  b) No cactus farms, mob traps, sugar cane plantations, etc.  
 2. **Don't build what belongs in freebuild**  
  a) Pixel art  
- b) Redstone experiments, rollercoasters  
- c) Maps/ arenas, etc.  
+ b) Maps/ arenas 
+ c) Redstone experiments, roller coasters, huge floating diamond buildings, etc.  
+ 
 **(All of the above can be removed by the staff)**  
 
-##Rules for vanilla (/rules vanilla)  
-1. **Forget about the global rules**  
- a) You can grief, steal and kill everyone  
- b) You don't need to stay away from others  
- c) The staff won't help you here  
-2. **What you are not allowed to do**  
- a) Insult/ annoy other players  
- b) Spam  
- c) Cheat  
-Please read /help vanilla
-
-##Rules for freebuild (/rules fbuild)
+Rules for freebuild
+-------------------
 1. **This world is for**  
  a) Pixel art  
  b) Redstone  
  c) Maps/ arenas  
  d) etc.  
-2. **All global rules still apply**
+2. **All global rules still apply**  
