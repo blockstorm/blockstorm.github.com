@@ -4,24 +4,13 @@
 Global Rules
 ------------
 
-1. **No griefing**  
- a) Don't destroy other player's creations  
- b) Don't kill other players  
- c) Don't steal  
- d) Don't lock other player's chests, doors, etc.  
- e) Don't grief back, tell an admin instead so the griefing can be undone and the griefer banned  
-2. **Respect other players**  
- a) Don't insult anyone  
- b) Stay away from others if they want you to  
- c) Don't annoy anyone (by asking for items, etc.)  
- d) Don't spam  
-3. **Cheating is not allowed unless**  
- a) You are VIP and in the creative, skylands or freebuild worlds  
- b) A member of the staff allowed you to  
-4. **Apart from that moderators and admins decide**  
-5. **If you don't follow these rules expect to be demoted or banned**  
-
-tl;dr Use common sense and respect the staff.  
+1. **Respect other players**  
+ a) Don't grief, kill, steal or insult  
+ b) Don't lock anyone's chests, doors, etc.  
+ c) Stay away from other players if they want you to  
+ d) Don't spam or annoy others  
+2. **No cheating** Unless you were allowed to
+3. **Respect the staff**  
 
 Rules for the marketplace
 -------------------------
@@ -33,21 +22,12 @@ Rules for the marketplace
 Rules for creative and skylands
 -------------------------------
 
-1. **Don't play survival**  
- a) No shelters, dirt houses, etc.  
- b) No cactus farms, mob traps, sugar cane plantations, etc.  
-2. **Don't build what belongs in freebuild**  
- a) Pixel art  
- b) Maps/ arenas 
- c) Redstone experiments, roller coasters, huge floating diamond buildings, etc.  
- 
-**(All of the above can be removed by the staff)**  
+Please try to build aesthetically pleasing buildings in these two worlds.
 
-Rules for freebuild
--------------------
-1. **This world is for**  
- a) Pixel art  
- b) Redstone  
- c) Maps/ arenas  
- d) etc.  
-2. **All global rules still apply**  
+They are **not** for:
+
+- Anything survival related (shelters, dirt houses, etc.)
+- Pixel art, maps, redstone experiments, roller coasters, huge floating diamond buildings, and so on (That's what freebuild is for)
+
+**The staff is allowed to remove all of the above**
+
