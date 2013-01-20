@@ -1,13 +1,7 @@
 #FAQ
 
-###What ranks are there?
-- Griefer: Players who griefed but aren't banned.
-- Guest: Players who haven't been promoted to Member yet, they can't build or use commands, usually new players.
-- Member: Members of the server can build and use commands.
-- VIP: Donors, they have access to some additional commands and creative gamemode.
-- Trusted: Players who frequently played on the server for a while without breaking the rules.
-- Moderator: Moderators can /kick, /ban, use logblock, etc.
-- Admin: Access to all commands.
+###What ranks are there? What commands can I use?
+See the [info page] (http://blockstorm.com/info)
 
 ###Why can't I build/use commands?
 You are probably in the [Griefer] or [Guest] group. See below how to become Member.
@@ -29,7 +23,6 @@ VIPs:
 - get the [VIP] title and another color
 
 Most of the above is only available in the creative, skylands and freebuild worlds to allow other players to play survival.
-
 
 ###How can I become Trusted, Moderator or Admin?
 You don't need to ask for any of these ranks, if the server is looking for staff an admin will contact you. Increase your chances of being chosen by frequently playing on the server and following the rules.
