@@ -34,7 +34,7 @@
         (link-to {:class "headeritem"} "https://minestatus.net/10335-blockstorm-com" "minestatus.net")
         (link-to {:class "headeritem"} "http://mcserverlist.net/servers/50a7b59a99b5e4001b000355" "mcserverlist.net")
         (link-to {:class "headeritem"} "http://mcservers.org/detail/play.blockstorm.com" "mcservers.org")
-		(link-to {:class "headeritem"} "http://minecraft-server-list.com/server/103935/" "minecraft-server-list.com")]
+        (link-to {:class "headeritem"} "http://minecraft-server-list.com/server/103935/" "minecraft-server-list.com")]
        [:div#logo-container ; logo
         [:div#logo "blockstorm.com"]
         [:div#description "play.blockstorm.com - Minecraft Bukkit Server since 2011"]]
@@ -44,8 +44,9 @@
         (link-to {:class "menuitem"} "http://blockstorm.com/donate.html" "Donate")
         (link-to {:class "menuitem"} "http://blockstorm.com/vote.html" "Vote")
         (link-to {:class "menuitem"} "http://blockstorm.com/rules.html" "Rules")
-		(link-to {:class "menuitem"} "http://blockstorm.com/market" "Market")
-		(link-to {:class "menuitem"} "http://blockstorm.com/about" "About")
+        (link-to {:class "menuitem"} "http://blockstorm.com/market" "Market")
+        (link-to {:class "menuitem"} "http://blockstorm.com/info" "Info")
+        (link-to {:class "menuitem"} "http://blockstorm.com/about" "About")
         [:div#ip "play.blockstorm.com"]]
        (if (.equalsIgnoreCase name "index")
          [:div#slideshow ; slideshow
