@@ -1,11 +1,5 @@
-Info
-====
-
-On this page we collect information about blockstorm.com
-
-
 Ranks
------
+=====
 
 - Griefer: Players who broke the rules but aren't banned (yet).
 - Guest: New players who haven't been promoted to Member yet.
@@ -16,7 +10,7 @@ Ranks
 - Admins: Admins have access to nearly all commands.
 
 Commands
---------
+========
 
 Most commands aren't explained in detail, just type the command without any parameters or `/<command> help` and it usually tells you how to use it.
 

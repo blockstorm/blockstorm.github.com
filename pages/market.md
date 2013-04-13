@@ -26,7 +26,7 @@ You will need a chest, a sign and at least one item.
 
 
 Parameters
-----------
+==========
 
 Every shop requires at least one of `B:` or `S:` (else you could neither buy nor sell), they can have both.
 

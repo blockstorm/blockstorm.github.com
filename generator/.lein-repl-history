@@ -1,1 +1,12 @@
 (generate)
+cd /media/files/code/git/max
+(genrate)
+(generate-site)
+(generate)
+(= "test" "test")
+(== "test" "test")
+(generate)
+(if (= "test" "test") "active" "passive")
+(generate)
+(let [name "Hello"] name)
+(generate)

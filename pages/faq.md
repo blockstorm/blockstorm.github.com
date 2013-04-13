@@ -1,18 +1,23 @@
-#FAQ
+#Frequently Asked Questions
 
-###What ranks are there? What commands can I use?
-See the [info page] (http://blockstorm.com/info)
+What ranks are there? What commands can I use?
 
-###Why can't I build/use commands?
-You are probably in the [Griefer] or [Guest] group. See below how to become Member.
+- See the [info page] (http://blockstorm.com/info)
 
-###How can I become Member?
-When you first join you will have the [Guest] rank. Make sure you have read the [rules] (http://blockstorm.com/rules.html) (or type /rules in-game) and ask a member of the staff for a promotion. You will become [Member] so that you can build and use commands. This procedure is supposed to prevent new players from griefing while no moderators are online.
+Why can't I build/use commands?
 
-###How can I become VIP?
-[Donate] (http://blockstorm.com/donate.html)
+- You are probably in the [Griefer] or [Guest] group. See below how to become Member.
 
-###What can VIPs do?
+How can I become Member?
+
+- When you first join you will have the [Guest] rank. Make sure you have read the [rules] (http://blockstorm.com/rules.html) (or type /rules in-game) and ask a member of the staff for a promotion. You will become [Member] so that you can build and use commands. This procedure is supposed to prevent new players from griefing while no moderators are online.
+
+How can I become VIP?
+
+- [Donate] (http://blockstorm.com/donate.html)
+
+What can VIPs do?
+
 VIPs:
 
 - can teleport, change weather and time
@@ -22,16 +27,20 @@ VIPs:
 - have access to WorldEdit and creative gamemode
 - get the [VIP] title and another color
 
-Most of the above is only available in the creative, skylands and freebuild worlds to allow other players to play survival.
+**Most of the above is only available in the creative, skylands and freebuild worlds to allow other players to play survival.**
 
-###How can I become Trusted, Moderator or Admin?
-You don't need to ask for any of these ranks, if the server is looking for staff an admin will contact you. Increase your chances of being chosen by frequently playing on the server and following the rules.
+How can I become Trusted, Moderator or Admin?
 
-###Why am I banned?
-Most likely you broke the [rules] (http://blockstorm.com/rules). Please contact admin[at]blockstorm[dot]com if you think it is in error.
+- You don't need to ask for these ranks. If we are looking for staff an admin will contact you. You can increase your chances of being chosen by frequently playing on the server and following the rules.
 
-###What happens after a minecraft update was released?
-Since it usually takes [Bukkit] (http://bukkit.org/) a few days to be updated (and for all its plugins to work properly) you can meanwhile play on a temporary map. We use a temporary map to prevent the actual worlds from being griefed without having to shut down the entire server.
+Why am I banned?
 
-###Your question is not on this page?
-Send a mail to admin[at]blockstorm[dot]com or log in and ask someone on the server.
+- Most likely you broke the [rules] (http://blockstorm.com/rules). You can appeal your ban [here] (http://blockstorm.com/ban.html).
+
+What happens after a minecraft update was released?
+
+- Because it usually takes the [Bukkit] (http://bukkit.org/) developers a few days to update (and for all plugins to work properly) you can meanwhile play on a temporary map. We use a temporary map to prevent the actual worlds from being griefed without having to shut down the entire server.
+
+Your question is not on this page?
+
+- Send a mail to admin[at]blockstorm[dot]com or log in and ask someone on the server.

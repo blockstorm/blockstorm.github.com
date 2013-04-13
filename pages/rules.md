@@ -1,8 +1,5 @@
-﻿Rules
-=====
-
-Global Rules
-------------
+﻿Global Rules
+============
 
 1. **Respect other players**  
  a) Don't grief, kill, steal or insult  
@@ -13,14 +10,14 @@ Global Rules
 3. **Respect the staff**  
 
 Rules for the marketplace
--------------------------
+=========================
 
 1. Ask before opening a shop
 2. Don't change the outside of your shop except for torches, signs and item frames
 3. Don't modify other shops
 
 Rules for creative and skylands
--------------------------------
+===============================
 
 Please try to build aesthetically pleasing buildings in these two worlds.
 
