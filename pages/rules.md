@@ -6,7 +6,7 @@
  b) Don't lock anyone's chests, doors, etc.  
  c) Stay away from other players if they want you to  
  d) Don't spam or annoy others  
-2. **No cheating** Unless you were allowed to
+2. **No cheating**
 3. **Respect the staff**  
 
 Rules for the marketplace
