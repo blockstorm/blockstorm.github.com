@@ -10,3 +10,5 @@ cd /media/files/code/git/max
 (generate)
 (let [name "Hello"] name)
 (generate)
+(genrate)
+(generate)
