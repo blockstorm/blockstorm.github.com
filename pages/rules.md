@@ -4,7 +4,7 @@
 1. **Respect other players**  
  a) Don't grief, kill, steal or insult  
  b) Don't lock anyone's chests, doors, etc.  
- c) Stay away from other players if they want you to  
+ c) Stay away from others unless you have their permission  
  d) Don't spam or annoy others  
 2. **No cheating**
 3. **Respect the staff**  
