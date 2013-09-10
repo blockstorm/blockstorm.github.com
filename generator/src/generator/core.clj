@@ -68,21 +68,22 @@
          (header-item
           "http://minecraft-server-list.com/server/103935/"
           "minecraft-server-list.com")]]
-       [:div#logo-container ; logo
-        [:div#logo "Blockstorm"]
-        [:div#description
-         "play.blockstorm.com - Minecraft Bukkit Server since 2011"]]
-       [:div#menu ; menu
-        [:a#home {:href "index.html"}]
-        (menu-item name "faq.html" "FAQ")
-        (menu-item name "donate.html" "Donate")
-        (menu-item name "vote.html" "Vote")
-        (menu-item name "rules.html" "Rules")
-        (menu-item name "market.html" "Market")
-        (menu-item name "info.html" "Info")
-        (menu-item name "ban.html" "Ban")
-        (menu-item name "about.html" "About")]
-       (if (.equalsIgnoreCase name "index")
+       [:div#logo-and-menu
+        [:div#logo-container ; logo
+         [:div#logo "Blockstorm"]
+         [:div#description
+          "play.blockstorm.com - Minecraft Server since 2011"]]
+        [:div#menu ; menu
+         [:a#home {:href "index.html"}]
+         (menu-item name "faq.html" "FAQ")
+         (menu-item name "donate.html" "Donate")
+         (menu-item name "vote.html" "Vote")
+         (menu-item name "rules.html" "Rules")
+         (menu-item name "market.html" "Market")
+         (menu-item name "info.html" "Info")
+         (menu-item name "ban.html" "Ban")
+         (menu-item name "about.html" "About")]]
+        (if (.equalsIgnoreCase name "index")
          [:div#slideshow ; slideshow
           (image {:id "current-image"}
                  "./img/slideshow05.png" "Slideshow")])

@@ -18,7 +18,6 @@ body {
 	padding-bottom: 64px;
 	
 	background: #F8F8F4;
-	background-image: url('../img/noise_white.png');
 	color: #2A2A2A;
 	font-size: 18px;
 	font-family: 'Open Sans', sans-serif;
@@ -78,10 +77,7 @@ code {
 
 #headeritems {
     width: 1024px;
-    height: 32px;
     margin: auto;
-
-    border-bottom: 1px solid #1B1B1B;
 }
 
 .headeritem {
@@ -100,19 +96,10 @@ a.headeritem:hover {
 }
 
 /* ### LOGO ### */
-#logo-and-menu {
-    width: 100%;
-    height: 130px;
-
-    padding-top: 32px;
-    
-    background-image: url('../img/noise_red.png');
-    border-bottom: 2px solid #A11111;
-}
-
 #logo-container {
 	width: 1024px;
 	margin: auto;
+	margin-top: 32px;
 	height: 61px;
 }
 
@@ -122,14 +109,13 @@ a.headeritem:hover {
 
     font-family: 'GentiumBasicRegular';
     font-size: 68px;
-    color: #1B1B1B;
+    color: #D33333;
 }
 
 #description {
-    font-size: 24px;
-    padding-top: 26px;
+    font-size: 22px;
+    padding-top: 30px;
     font-family: 'GentiumBookBasicRegular';
-    color: #181818;
 }
 
 /* ### MENU ### */
@@ -148,16 +134,16 @@ a.headeritem:hover {
 	margin-top: 14px;
 	float: left;
 	
-	color: #FFF0DF;
+	color: #2A2A2A;
 }
 
 a.menuitem:hover {
-	color: #1B1B1B;
+	color: #D33333;
 	text-decoration: none;
 }
 
 #active {
-    color: #1B1B1B;
+    color: #D33333;
 }
 
 #passive {
