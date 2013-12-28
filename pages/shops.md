@@ -1,20 +1,27 @@
-﻿Marketplace
-===========
+Shops
+=====
 
-Near spawn there is a marketplace where players can buy and sell almost every kind of item. It is supposed to be a central place for players to have their shops but you are allowed to open a shop wherever you want.
+The new shop allows players to buy and sell items using commands.
 
-Buying and selling is as simple as using a chest. When taking items you automatically pay for them and you receive money when putting items in a chest. Your money is handled by the iConomy plugin, to check your balance type `/money`.
+To view instructions on how each command works type `/shop <command> help` e.g. `/shop buy help`.  
+ The following commands are available:
 
-When you first join the server your account will be credited with 1000$, you can make money in three ways:
+- `/shop search help`
+- `/shop price help`
+- `/shop buy help`
+- `/shop sell help`
 
-- Sell items to a shop
-- Open a shop and have other players buy your items
-- Vote for the server [here] (http://blockstorm.com/vote) and receive 50$ for every vote
+Sign shops
+==========
 
-Before opening a shop make sure to read the [market rules] (http://blockstorm.com/rules), you can also view them by typing `/rules market` in-game.
+How to use sign shops
+---------------------
 
-How to set up shops
-===================
+Using sign shops is as simple as using a chest. When taking  items you automatically pay for them and you receive money when putting items in a chest.  
+Your money is handled by the iConomy plugin. To check your balance type `/money`.
+
+How to set up sign shops
+------------------------
 
 You will need a chest, a sign and at least one item.
 
@@ -26,7 +33,7 @@ You will need a chest, a sign and at least one item.
 
 
 Parameters
-==========
+----------
 
 Every shop requires at least one of `B:` or `S:` (else you could neither buy nor sell), they can have both.
 

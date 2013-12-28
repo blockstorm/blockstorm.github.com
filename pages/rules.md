@@ -7,14 +7,7 @@
  c) Stay away from others unless you have their permission  
  d) Don't spam or annoy others  
 2. **No cheating**
-3. **Respect the staff**  
-
-Rules for the marketplace
-=========================
-
-1. Ask before opening a shop
-2. Don't change the outside of your shop except for torches, signs and item frames
-3. Don't modify other shops
+3. **Respect the staff**
 
 Rules for creative and skylands
 ===============================

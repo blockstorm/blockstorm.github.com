@@ -79,7 +79,9 @@
          (menu-item name "donate.html" "Donate")
          (menu-item name "vote.html" "Vote")
          (menu-item name "rules.html" "Rules")
-         (menu-item name "market.html" "Market")
+         (menu-item name "shops.html" "Shops")
+         ;;(menu-item name "market.html" "Market")
+         (menu-item name "claim.html" "Claim")
          (menu-item name "info.html" "Info")
          (menu-item name "ban.html" "Ban")
          (menu-item name "about.html" "About")]]

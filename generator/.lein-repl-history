@@ -16,3 +16,7 @@ cd /media/files/code/git/max
 (generate)
 cd ..
 (generate)
+stop
+(generate)
+(generate-page "shops.md")
+(generate)
