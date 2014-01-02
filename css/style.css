@@ -66,11 +66,13 @@ a:hover {
 code {
     font-family: 'DejaVu Sans Mono';
     font-size: 18px;
+    font-weight: normal;
 
     background: #F2F2F2;
     border: 1px solid #DDDDDD;
     border-radius: 3px;
 }
+
 
 /* ### HEADER ### */
 
