@@ -4,10 +4,9 @@ Ranks
 - Griefer: Players who broke the rules but aren't banned (yet).
 - Guest: New players who haven't been promoted to Member yet.
 - Member: Members of the server.
-- VIP: Donors, they have access to some additional commands.
+- Donor: Players who donated, they have access to some additional commands.
 - Trusted: Players who have been promoted to Trusted by a member of the staff.
 - Moderator: Moderators make sure people follow the rules.
-- Admins: Admins have access to nearly all commands.
 
 Commands
 ========
@@ -32,7 +31,7 @@ Commands members can use:
 - `/motd` displays the message you see when you log in
 - `/lwc` Chest protection related commands
 
-Commands VIPs can use:
+Commands Donors can use:
 
 - `/warp` Warp related commands
 - `/time` changes the time

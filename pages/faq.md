@@ -12,20 +12,20 @@ How can I become Member?
 
 - When you first join you will have the [Guest] rank. Make sure you have read the [rules] (http://blockstorm.com/rules.html) (or type /rules in-game) and ask a member of the staff for a promotion. You will become [Member] so that you can build and use commands. This procedure is supposed to prevent new players from griefing while no moderators are online.
 
-How can I become VIP?
+How can I become Donor?
 
 - [Donate] (http://blockstorm.com/donate.html)
 
-What can VIPs do?
+What can Donors do?
 
-VIPs:
+Donors:
 
 - can teleport, change weather and time
 - have up to 20 homes and /warp
 - are allowed to use client-mods
 - can spawn mobs
 - have access to WorldEdit and creative gamemode
-- get the [VIP] title and another color
+- get the [D] prefix and another color
 
 **Most of the above is only available in the creative, skylands and freebuild worlds to allow other players to play survival.**
 
