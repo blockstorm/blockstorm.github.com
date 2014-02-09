@@ -10,33 +10,33 @@
 
 
 html {
-	height: 100%;
+    height: 100%;
 }
 
 body {
-	margin:0;
-	padding-bottom: 64px;
-	
-	background: #F8F8F4;
-	background-image: url('../img/noise_white.png');
-	color: #2A2A2A;
-	font-size: 18px;
-	font-family: 'Open Sans', sans-serif;
+    margin:0;
+    padding-bottom: 64px;
+    
+    background: #F0F0E5;
+    //background-image: url('../img/noise_white.png');
+    color: #2A2A2A;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
-	font-weight: normal;
-	font-size: 36px;
-	font-family: 'GentiumBookBasicRegular';
-	margin-top: 32px;
-	margin-bottom: 0;
+    font-weight: normal;
+    font-size: 36px;
+    font-family: 'GentiumBookBasicRegular';
+    margin-top: 32px;
+    margin-bottom: 0;
 }
 
 h2 {
-	font-weight: normal;
-	font-size: 28px;
-	font-family: 'GentiumBookBasicRegular';
-	margin-bottom: 0;
+    font-weight: normal;
+    font-size: 28px;
+    font-family: 'GentiumBookBasicRegular';
+    margin-bottom: 0;
 }
 
 h3 {
@@ -45,8 +45,8 @@ h3 {
 }
 
 h4, h5, h6{
-	font-size: 18px;
-	font-weight: normal;
+    font-size: 18px;
+    font-weight: normal;
 }
 
 p {
@@ -55,12 +55,12 @@ p {
 }
 
 a {
-	text-decoration: none;
-	color: #C83B32;
+    text-decoration: none;
+    color: #C83B32;
 }
 
 a:hover {
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 code {
@@ -119,9 +119,9 @@ a.headeritem:hover {
 }
 
 #logo-container {
-	width: 1024px;
-	margin: auto;
-	height: 61px;
+    width: 1024px;
+    margin: auto;
+    height: 61px;
 }
 
 #logo {
@@ -143,25 +143,25 @@ a.headeritem:hover {
 /* ### MENU ### */
 
 #menu {
-	height: 44px;
-	width: 1024px;
-	margin: auto;
-	margin-top: 16px;
-	
-	font-size: 18px;
+    height: 44px;
+    width: 1024px;
+    margin: auto;
+    margin-top: 16px;
+    
+    font-size: 18px;
 }
 
 .menuitem {
-	padding-right: 12px;
-	margin-top: 14px;
-	float: left;
-	
-	color: #FFF0DF;
+    padding-right: 12px;
+    margin-top: 14px;
+    float: left;
+    
+    color: #FFF0DF;
 }
 
 a.menuitem:hover {
-	color: #1B1B1B;
-	text-decoration: none;
+    color: #1B1B1B;
+    text-decoration: none;
 }
 
 #active {
@@ -198,22 +198,22 @@ a.menuitem:hover {
 /* ### SLIDESHOW ### */
 
 #slideshow {
-	width: 1024px;
-	height: 256px;
-	margin: auto;
-	margin-top: 32px;
-	
-	background: #F8F8F8;
+    width: 1024px;
+    height: 256px;
+    margin: auto;
+    margin-top: 32px;
+    
+    background: #F8F8F8;
 }
 
 /* ### CONTENT ### */
 
 #content {
-	width: 1024px;
-	margin: auto;
-	margin-top: 32px;
+    width: 1024px;
+    margin: auto;
+    margin-top: 32px;
 }
 
 #content-container {
-	padding-bottom: 32px;
+    padding-bottom: 32px;
 }
