@@ -9,10 +9,10 @@
 2. **No cheating**
 3. **Respect the staff**
 
-Rules for creative and skylands
-===============================
+Rules for creative
+==================
 
-Please try to build aesthetically pleasing buildings in these two worlds.
+Please try to build aesthetically pleasing buildings in this world.
 
 They are **not** for:
 

@@ -75,14 +75,14 @@
           "play.blockstorm.com - Minecraft Server since 2011"]]
         [:div#menu ; menu
          [:a#home {:href "index.html"}]
-         (menu-item name "faq.html" "FAQ")
          (menu-item name "donate.html" "Donate")
          (menu-item name "vote.html" "Vote")
          (menu-item name "rules.html" "Rules")
          (menu-item name "shops.html" "Shops")
          ;;(menu-item name "market.html" "Market")
          (menu-item name "claim.html" "Claim")
-         (menu-item name "info.html" "Info")
+         (menu-item name "ranks.html" "Ranks")
+         (menu-item name "moderator.html" "Moderator")
          (menu-item name "ban.html" "Ban")
          (menu-item name "about.html" "About")]]
         (if (.equalsIgnoreCase name "index")

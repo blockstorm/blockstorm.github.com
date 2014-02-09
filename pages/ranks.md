@@ -5,15 +5,15 @@ Ranks
 - Guest: New players who haven't been promoted to Member yet.
 - Member: Members of the server.
 - Donor: Players who donated, they have access to some additional commands.
-- Trusted: Players who have been promoted to Trusted by a member of the staff.
 - Moderator: Moderators make sure people follow the rules.
+- Admins: Same as Moderator but with more permissions.
 
 Commands
 ========
 
 Most commands aren't explained in detail, just type the command without any parameters or `/<command> help` and it usually tells you how to use it.
 
-Commands members can use:
+Commands Members can use:
 
 - `/ch` Chat channel related commands
 - `/rules` shows you the rules
@@ -41,7 +41,7 @@ Commands Donors can use:
 - `/creative` sets your gamemode to creative
 - `/survival` sets your gamemode to survival
 
-Commands trusted players can use:
+Commands Moderator can use:
 
 - `/kick <player>` kicks a player from the server
 - `/jail` to put someone in jail
@@ -53,7 +53,7 @@ Commands trusted players can use:
 - `/pex promote <player>` promotes a player
 - `/pex demote <player>` demotes a player
 
-Commands moderators can use:
+Commands Admins can use:
 
 - `/tp <player>` teleports you to `<player>`
 - `/tphere <player>` teleports `<player>` to you
