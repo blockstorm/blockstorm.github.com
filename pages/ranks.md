@@ -41,6 +41,8 @@ Commands Donors can use:
 - `/creative` sets your gamemode to creative
 - `/survival` sets your gamemode to survival
 
+Some of these commands are only available in creative and freebuild so other players can still play survival.
+
 Commands Moderator can use:
 
 - `/kick <player>` kicks a player from the server
