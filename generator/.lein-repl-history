@@ -20,3 +20,4 @@ stop
 (generate)
 (generate-page "shops.md")
 (generate)
+(quit)

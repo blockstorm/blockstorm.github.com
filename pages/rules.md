@@ -5,7 +5,7 @@
  a) Don't grief, kill, steal or insult  
  b) Don't lock anyone's chests, doors, etc.  
  c) Stay away from others unless you have their permission  
- d) Don't spam or annoy others  
+ d) Don't spam, annoy others or ask for ranks  
 2. **No cheating**
 3. **Respect the staff**
 
