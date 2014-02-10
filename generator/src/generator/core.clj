@@ -60,12 +60,6 @@
           "https://minestatus.net/10335-blockstorm-com"
           "minestatus.net")
          (header-item
-          "http://mcserverlist.net/servers/50a7b59a99b5e4001b000355"
-          "mcserverlist.net")
-         (header-item
-          "http://mcservers.org/detail/play.blockstorm.com"
-          "mcservers.org")
-         (header-item
           "http://minecraft-server-list.com/server/103935/"
           "minecraft-server-list.com")]]
        [:div#logo-and-menu
