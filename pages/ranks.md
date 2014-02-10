@@ -21,8 +21,8 @@ Commands Members can use:
 - `/rules market` Rules that apply to the marketplace
 - `/help` shows you the help
 - `/help list` for a list of available help articles
-- `/tpa` (teleport accept) to accept the last `/tpr` request
-- `/tpha` (teleport here accept) to accept the last `/tphr` request
+- `/tpaccept` to accept the last `/tprequest` request
+- `/tphereaccept` to accept the last `/tphererequest`
 - `/spawn` teleports you to spawn
 - `/find <term>` lists all players with `<term>` in their username or nickname
 - `/clearinv` removes all items from your inventory
@@ -36,8 +36,8 @@ Commands Donors can use:
 - `/warp` Warp related commands
 - `/time` changes the time
 - `/weather` changes the weather
-- `/tpr <player>` requests a teleport from a player
-- `/tphr <player>` requests the player to teleport to you
+- `/tprequest <player>` requests a teleport from a player
+- `/tphererequest <player>` requests the player to teleport to you
 - `/creative` sets your gamemode to creative
 - `/survival` sets your gamemode to survival
 
@@ -49,7 +49,7 @@ Commands Moderator can use:
 - `/jail` to put someone in jail
 - `/free` to free someone from jail
 - `/isbanned <player>` Check if a player is banned
-- `/tpr` and `/tphr` request teleports
+- `/tprequest` and `/tphererequest` request teleports
 - `/lb tool` and `/lb toolblock` gives you LogBlock tools
 - `/lb lookup <params>` LogBlock lookup command
 - `/pex promote <player>` promotes a player
