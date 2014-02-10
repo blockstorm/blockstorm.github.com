@@ -60,6 +60,9 @@
           "https://minestatus.net/10335-blockstorm-com"
           "minestatus.net")
          (header-item
+          "http://minecraftservers.org/server/119052"
+          "minecraftservers.org")
+         (header-item
           "http://minecraft-server-list.com/server/103935/"
           "minecraft-server-list.com")]]
        [:div#logo-and-menu
