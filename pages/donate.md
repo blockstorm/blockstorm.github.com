@@ -19,4 +19,3 @@ Thank you for supporting the server.
 <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-Make sure to spell your username correctly!
