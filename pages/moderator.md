@@ -23,4 +23,4 @@ These aren't reasons:
 - You really want to become moderator  
   A lot of players probably do but we cannot promote everyone. Maybe try starting your own server where you can be owner.  
 - You deserve it because...  
-  Again, a lot of players do. But we will only promote someone when we need more staff and we will chose the person we think will do the best job.  
+  Again, a lot of players do. But we will only promote someone when we need more staff and we will choose the person we think will do the best job.  
