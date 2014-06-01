@@ -2,7 +2,7 @@ Donate to Blockstorm
 ====================
 
 Below you can donate to the server. Currently we are only accepting donations through paypal but you don't need a paypal account if you have a credit or bank card.
-If you are unable pay using one of the methods paypal provides please contact admin[at]blockstorm[dot]com.  
+If you are unable to pay using one of the methods paypal provides please contact admin[at]blockstorm[dot]com.  
 After donating 5&euro; (about 6.50$ or 4&pound;) your rank on the server will be changed to Donor. Because this doesn't happen automatically it might take a while until an admin promotes you. If you aren't promoted within 24 hours just contact admin[at]blockstorm[dot]com.  
 See the [ranks page] (http://blockstorm.com/ranks.html) for the permissions Donors have.
 
