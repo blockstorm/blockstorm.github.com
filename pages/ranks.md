@@ -13,7 +13,8 @@ Commands
 
 Most commands aren't explained in detail, just type the command without any parameters or `/<command> help` and it usually tells you how to use it.
 
-Commands Members can use:
+Member commands
+---------------
 
 - `/ch` Chat channel related commands
 - `/rules` shows you the rules
@@ -31,7 +32,8 @@ Commands Members can use:
 - `/motd` displays the message you see when you log in
 - `/lwc` Chest protection related commands
 
-Commands Donors can use:
+Donor commands
+--------------
 
 - `/warp` Warp related commands
 - `/time` changes the time
@@ -43,7 +45,8 @@ Commands Donors can use:
 
 Some of these commands are only available in creative and freebuild so other players can still play survival.
 
-Commands Moderator can use:
+Moderator commands
+------------------
 
 - `/kick <player>` kicks a player from the server
 - `/jail` to put someone in jail
@@ -55,7 +58,8 @@ Commands Moderator can use:
 - `/pex promote <player>` promotes a player
 - `/pex demote <player>` demotes a player
 
-Commands Admins can use:
+Admin commands
+--------------
 
 - `/tp <player>` teleports you to `<player>`
 - `/tphere <player>` teleports `<player>` to you

@@ -12,19 +12,28 @@ function setImg(img) {
 
 function slideshow() {    
     setTimeout(function() {
-	setImg('img/slideshow04.png');
+	setImg('img/slideshow09.png');
     }, 6000);
 
     setTimeout(function() {
-	setImg('img/slideshow06.png');
+	setImg('img/slideshow10.png');
     }, 12000);
     
     setTimeout(function() {
-	setImg('img/slideshow07.png');
+	setImg('img/slideshow11.png');
     }, 18000);
     
     setTimeout(function() {
-	setImg('img/slideshow05.png');
-	slideshow();
+	setImg('img/slideshow04.png');
     }, 24000);
+
+    setTimeout(function() {
+	setImg('img/slideshow05.png');
+    }, 30000);
+
+    setTimeout(function() {
+	setImg('img/slideshow08.png');
+	slideshow();
+    }, 36000);
+
 }

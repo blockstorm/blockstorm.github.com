@@ -72,6 +72,7 @@
           "play.blockstorm.com - Minecraft Server since 2011"]]
         [:div#menu ; menu
          [:a#home {:href "index.html"}]
+         (menu-item name "news.html" "News")
          (menu-item name "donate.html" "Donate")
          (menu-item name "vote.html" "Vote")
          (menu-item name "rules.html" "Rules")
@@ -85,7 +86,7 @@
         (if (.equalsIgnoreCase name "index")
          [:div#slideshow ; slideshow
           (image {:id "current-image"}
-                 "./img/slideshow05.png" "Slideshow")])
+                 "./img/slideshow08.png" "Slideshow")])
        [:div#content.shadow ; content
         [:div#content-container content]]])))
 

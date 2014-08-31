@@ -17,25 +17,24 @@ body {
     margin:0;
     padding-bottom: 64px;
     
-    background: #F8F8F8;
+    background: #F0F0E5;
+    //background-image: url('../img/noise_white.png');
     color: #2A2A2A;
-    font-size: 1.1em;
-    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
     font-weight: normal;
-    font-size: 1.7em;
+    font-size: 36px;
     font-family: 'GentiumBookBasicRegular';
     margin-top: 32px;
     margin-bottom: 0;
-
-    border-bottom: 1px #DDD solid;
 }
 
 h2 {
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 28px;
     font-family: 'GentiumBookBasicRegular';
     margin-bottom: 0;
 }
@@ -57,7 +56,7 @@ p {
 
 a {
     text-decoration: none;
-    color: #0070DD;
+    color: #C83B32;
 }
 
 a:hover {
@@ -66,7 +65,7 @@ a:hover {
 
 code {
     font-family: 'DejaVu Sans Mono';
-    font-size: 0.9em;
+    font-size: 18px;
     font-weight: normal;
 
     background: #F2F2F2;
@@ -82,7 +81,7 @@ code {
     width: 100%;
     
     background: #1B1B1B;
-    font-size: 0.9em;
+    font-size: 14px;
 }
 
 #headeritems {
@@ -111,12 +110,12 @@ a.headeritem:hover {
 /* ### LOGO ### */
 #logo-and-menu {
     width: 100%;
-    height: 116px;
+    height: 130px;
 
-    padding-top: 18px;
+    padding-top: 32px;
     
-    background-image: url('../img/noise_blue.png');
-    border-bottom: 2px solid #0080FF;
+    background-image: url('../img/noise_red.png');
+    border-bottom: 2px solid #A11111;
 }
 
 #logo-container {
@@ -147,9 +146,9 @@ a.headeritem:hover {
     height: 44px;
     width: 1024px;
     margin: auto;
-    margin-top: 8px;;
-
-    font-size: 1.1em;
+    margin-top: 16px;
+    
+    font-size: 18px;
 }
 
 .menuitem {
@@ -157,7 +156,7 @@ a.headeritem:hover {
     margin-top: 14px;
     float: left;
     
-    color: #F8F8F8;
+    color: #FFF0DF;
 }
 
 a.menuitem:hover {
@@ -188,6 +187,14 @@ a.menuitem:hover {
     background: transparent url('../img/home_dark.png') center top no-repeat;
 }
 
+#ip {
+    float: right;
+    margin-top: 14px;
+    padding-right: 12px;
+    
+    font-family: 'OpenSans';
+}
+
 /* ### SLIDESHOW ### */
 
 #slideshow {
@@ -204,20 +211,9 @@ a.menuitem:hover {
 #content {
     width: 1024px;
     margin: auto;
+    margin-top: 32px;
 }
 
 #content-container {
-    margin-top: 16px;
-
-    padding-left: 8px;
-    padding-right: 8px;
-    padding-top: 0px;
     padding-bottom: 32px;
-
-    background: #FFF;
-
-    border: 2px #EEE solid;
-    border-radius: 4px;
-
-    //box-shadow: 4px 4px 4px #DDD;
 }

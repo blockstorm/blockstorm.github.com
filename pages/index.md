@@ -1,4 +1,17 @@
-Welcome to blockstorm.com
-=========================
+Welcome to Blockstorm
+=====================
 
-Blockstorm is a Survival, PvE (and partially PvP) server hosted in Germany with players from Europe and the US. It is running Bukkit with ~20 plugins including griefing protection (LogBlock, NoCheatPlus, WorldGuard), mcMMO, MobArena, an economy (sign shops and /shop command) as well as custom plugins written specifically for Blockstorm. It has been continuously online since August 2011.
+Blockstorm is a Minecraft Survival Server. We're running Bukkit with plugins including:
+
+- griefing protection (LogBlock, NoCheatPlus, WorldGuard etc.)
+- mcMMO
+- MobArena
+- a shop system
+- custom plugins written specifically for Blockstorm
+
+We have been online since August 2011.
+
+Before starting to play please make sure you have read our rules. Either [here](http://blockstorm.com/rules) or by typing `/rules` in-game.
+
+If you're a already playing on Blockstorm read the [news](http://blockstorm.com/news) for important information concerning all players.
+
