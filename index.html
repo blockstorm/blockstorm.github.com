@@ -32,9 +32,9 @@
   </li>
 
   <li class="overview-item">
-    <h2>Cheating</h2>
+    <h2>Cheating prevention</h2>
     <p>
-      The NoCheatPlus plugin detects and prevents cheating. </br>
+      With NoCheatPlus we can detect and prevent cheating.</br>
       <a href="http://blockstorm.com/rules">Read our rules.</a>
     </p>	
   </li>
