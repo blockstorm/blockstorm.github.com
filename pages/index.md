@@ -1,17 +1,73 @@
-Welcome to Blockstorm
-=====================
+<h1 id="about_blockstorm">About Blockstorm</h1>
 
-Blockstorm is a Minecraft Survival Server. We're running Bukkit with plugins including:
+<ul id="overview">
 
-- griefing protection (LogBlock, NoCheatPlus, WorldGuard etc.)
-- mcMMO
-- MobArena
-- a shop system
-- custom plugins written specifically for Blockstorm
+  <li class="overview-item">
+    <h2>Hardware</h2>
+    <p>
+      Blockstorm is hosted on a dual-core server with  2GB of RAM, SSD storage and a 1 GB/sec network interface.
+    </p>
+  </li>
 
-We have been online since August 2011.
+  <li class="overview-item">
+    <h2>Griefing protection</h2>
+    <p>
+      Using LogBlock we can log every player's actions which makes it easy to find griefers and undo any damage.
+    </p>	
+  </li>
 
-Before starting to play please make sure you have read our rules. Either [here](http://blockstorm.com/rules) or by typing `/rules` in-game.
+  <li class="overview-item">
+    <h2>Economy</h2>
+    <p>
+      The <code>/shop</code> command and chest shops allow players to sell and buy items. </br>
+      <a href="http://blockstorm.com/shops">Find out how to use shops.</a>
+    </p>	
+  </li>
 
-If you're a already playing on Blockstorm read the [news](http://blockstorm.com/news) for important information concerning all players.
+  <li class="overview-item">
+    <h2>Getting around</h2>
+    <p>
+      Additionally to the portals and <code>[teleporter]</code> signs at spawn every player can set up ten homes.
+    </p>	
+  </li>
+
+  <li class="overview-item">
+    <h2>Cheating</h2>
+    <p>
+      The NoCheatPlus plugin detects and prevents cheating. </br>
+      <a href="http://blockstorm.com/rules">Read our rules.</a>
+    </p>	
+  </li>
+  
+  <li class="overview-item">
+    <h2>Dynmap</h2>
+    <p>
+      The dynmap plugin provides live maps of all worlds on the server. </br>
+      <a href="http://play.blockstorm.com:8123/">Access the dynmap.</a>
+    </p>	
+  </li>
+
+  <li class="overview-item">
+    <h2>LWC</h2>
+    <p>
+      Using the LWC plugin players can decide who has access to their doors, chests and furnaces.
+    </p>
+  </li>
+
+  <li class="overview-item">
+    <h2>Custom plugins</h2>
+    <p>
+      Several custom plugins were written specifically for Blockstorm. </br>
+      <a href="http://blockstorm.com/ranks">Read about commands.</a>
+    </p>
+  </li>
+
+  <li class="overview-item">
+    <h2>Since 2011</h2>
+    <p>
+      Blockstorm has been online for more than three years (since August 2011) with nearly 100% uptime.
+    </p>
+  </li>
+</ul>
+
 

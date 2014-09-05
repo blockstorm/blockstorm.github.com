@@ -18,7 +18,7 @@ body {
     padding-bottom: 64px;
     
     background: #F8F8F8;
-    color: #2A2A2A;
+    color: #333;
     font-size: 1.1em;
     font-family: 'Lato', sans-serif;
 }
@@ -209,8 +209,8 @@ a.menuitem:hover {
 #content-container {
     margin-top: 16px;
 
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
     padding-top: 0px;
     padding-bottom: 32px;
 
@@ -221,3 +221,28 @@ a.menuitem:hover {
 
     //box-shadow: 4px 4px 4px #DDD;
 }
+
+/* ### HOMEPAGE ### */
+#about_blockstorm {
+    font-size: 2em;
+    text-align: center;
+}
+
+#overview {
+    margin-left: -16px;
+    margin-right: -16px;
+    padding: 0;
+}
+
+.overview-item {
+    width: 320px;
+    height: 140px;
+    display: inline-block;
+    vertical-align: text-top;
+
+    margin-left: 16px;
+
+    list-style: none;
+}
+
+
