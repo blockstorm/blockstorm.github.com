@@ -27,7 +27,7 @@
   <li class="overview-item">
     <h2>Getting around</h2>
     <p>
-      Additionally to the portals and <code>[teleporter]</code> signs at spawn every player can set up ten homes.
+      Additionally to the portals and <code>[teleporter]</code> signs at spawn every player can set up to ten homes.
     </p>	
   </li>
 
