@@ -12,7 +12,7 @@ The even older `survival02` will be deleted in February. Again, you can move you
 
 *9 December 2014*
 
-You might have noticed that it took quite a bit longer to update the server to `1.8` than it usually does. The reason for the long delay was the Bukkit team quitting in early September and the lack of an alternative. Last week however the Spigot team published Spigot and Bukkit versions for `1.8`. which is what the server is running now.
+You might have noticed that it took quite a bit longer to update the server to `1.8` than it usually does. The reason for the long delay was the Bukkit team quitting in early September and the lack of an alternative. Last week however the Spigot team published Spigot and Bukkit versions for `1.8` which is what the server is running now.
 
 Since the new version hasn't been tested much it's possible that there are bugs. It's also possible that some plugins won't work correctly and need to be updated.
 
