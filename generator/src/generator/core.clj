@@ -78,7 +78,7 @@
          (menu-item name "rules.html" "Rules")
          (menu-item name "shops.html" "Shops")
          ;;(menu-item name "market.html" "Market")
-         (menu-item name "claim.html" "Claim")
+         (menu-item name "crafting.html" "Crafting")
          (menu-item name "ranks.html" "Ranks")
          (menu-item name "moderator.html" "Moderator")
          (menu-item name "ban.html" "Ban")
