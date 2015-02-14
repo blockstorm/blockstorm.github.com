@@ -5,19 +5,6 @@
  a) Don't grief, kill, steal or insult  
  b) Don't lock anyone's chests, doors etc.  
  c) Stay away from others unless you have their permission  
- d) Don't spam, annoy others or ask for ranks  
-2. **No cheating**
+ d) Don't spam, annoy others or ask for ranks, items etc.  
+2. **No cheating** (including mobfarms)
 3. **Respect the staff**
-
-Rules for creative
-==================
-
-Please try to build aesthetically pleasing buildings in this world.
-
-They are **not** for:
-
-- Anything survival related (shelters, dirt houses, etc.)
-- Pixel art, maps, redstone experiments, roller coasters, huge floating diamond buildings, and so on (That's what freebuild is for)
-
-**The staff is allowed to remove all of the above**
-
