@@ -73,6 +73,7 @@
         [:div#menu ; menu
          [:a#home {:href "index.html"}]
          (menu-item name "news.html" "News")
+         (menu-item name "map.html" "Map")
          (menu-item name "donate.html" "Donate")
          (menu-item name "vote.html" "Vote")
          (menu-item name "rules.html" "Rules")
