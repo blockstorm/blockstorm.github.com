@@ -1,7 +1,5 @@
-Crafting Recipes
-================
-
-Below you can find recipes for crafting horse armor, saddles and cobweb.
+Custom Crafting Recipes
+=======================
 
 Iron Horse Armor
 ----------------

@@ -26,7 +26,7 @@ body {
 h1 {
     font-weight: normal;
     font-size: 1.7em;
-    font-family: 'GentiumBasicRegular';
+    font-family: 'hallo-sans';
     margin-top: 32px;
     margin-bottom: 0;
 
@@ -36,7 +36,7 @@ h1 {
 h2 {
     font-weight: normal;
     font-size: 1.5em;
-    font-family: 'GentiumBasicRegular';
+    font-family: 'hallo-sans';
     margin-bottom: 0;
 }
 
@@ -128,18 +128,17 @@ a.headeritem:hover {
 #logo {
     float: left;
     padding-right: 20px;
-    margin-bottom: -10px;
-    margin-top: 10px;
+    margin-bottom: -8px;
 
-    font-family: 'GentiumBasicRegular';
+    font-family: 'hallo-sans';
     font-size: 68px;
     color: #1B1B1B;
 }
 
 #description {
     font-size: 24px;
-    padding-top: 38px;
-    font-family: 'GentiumBasicRegular';
+    padding-top: 34px;
+    font-family: 'hallo-sans';
     color: #181818;
 }
 
@@ -219,6 +218,9 @@ a.menuitem:hover {
     background: #FFF;
 
     border: 2px #EEE solid;
+    border-radius: 4px;
+
+    //box-shadow: 4px 4px 4px #DDD;
 }
 
 /* ### HOMEPAGE ### */
@@ -234,29 +236,14 @@ a.menuitem:hover {
 }
 
 .overview-item {
-    width: 318px;
-    height: 120px;
+    width: 320px;
+    height: 140px;
     display: inline-block;
     vertical-align: text-top;
 
-    padding-top: 4px;
-    margin-left: 12px;
-    margin-bottom: 18px;
+    margin-left: 16px;
 
     list-style: none;
-
-    border-top: 1px #D8D8D8 solid;
-    border-left: 1px #D8D8D8 solid;
-    border-right: 1px #BBB solid;
-    border-bottom: 1px #BBB solid;
-}
-
-.overview-item p {
-    margin: 8px;
-}
-
-.overview-item h2 {
-    margin: 8px;
 }
 
 /* ### MAP ### */

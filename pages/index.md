@@ -1,11 +1,11 @@
-<h1 id="about_blockstorm">About Blockstorm</h1>
+<h1 id="about_blockstorm">Welcome to Blockstorm!</h1>
 
 <ul id="overview">
 
   <li class="overview-item">
     <h2>Hardware</h2>
     <p>
-      Blockstorm is hosted on a dual-core server with  2GB of RAM, SSD storage and a 1 GB/sec network interface.
+      The server is hosted on a dual-core server with  2 GB of RAM, SSD and a 1 GB/sec network interface.
     </p>
   </li>
 
@@ -19,8 +19,8 @@
   <li class="overview-item">
     <h2>Economy</h2>
     <p>
-      The <code>/shop</code> command and chest shops allow players to sell and buy items. </br>
-      <a href="http://blockstorm.com/shops">Find out how to use shops.</a>
+      The <code>/shop</code> command allows players to sell and buy items. </br>
+      <a href="http://blockstorm.com/shops">Find out how to use shops</a>
     </p>	
   </li>
 
@@ -35,7 +35,7 @@
     <h2>Cheating prevention</h2>
     <p>
       With NoCheatPlus we can detect and prevent cheating.</br>
-      <a href="http://blockstorm.com/rules">Read our rules.</a>
+      <a href="http://blockstorm.com/rules">Read our rules</a>
     </p>	
   </li>
   
@@ -43,7 +43,7 @@
     <h2>Dynmap</h2>
     <p>
       The dynmap plugin provides live maps of all worlds on the server. </br>
-      <a href="http://play.blockstorm.com:8123/">Access the dynmap.</a>
+      <a href="http://blockstorm.com/map">Access the dynmap</a>
     </p>	
   </li>
 
@@ -58,7 +58,7 @@
     <h2>Custom plugins</h2>
     <p>
       Several custom plugins were written specifically for Blockstorm. </br>
-      <a href="http://blockstorm.com/ranks">Read about commands.</a>
+      <a href="http://blockstorm.com/ranks">Read about commands</a>
     </p>
   </li>
 
