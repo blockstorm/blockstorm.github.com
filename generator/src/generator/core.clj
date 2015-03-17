@@ -67,7 +67,7 @@
           "minecraft-server-list.com")]]
        [:div#logo-and-menu
         [:div#logo-container ; logo
-         [:div#logo "Blockstorm"]
+         [:a#logo {:href "index.html"} "Blockstorm"]
          [:div#description
           "play.blockstorm.com - Minecraft Server since 2011"]]
         [:div#menu ; menu

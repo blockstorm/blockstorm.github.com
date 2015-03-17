@@ -16,21 +16,18 @@ html {
 body {
     margin:0;
     padding-bottom: 64px;
-
-    background-image: url("../img/blurred_1.png");
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #F8F8F8;
+    
+    background: #F8F8F8;
     color: #333;
     font-size: 1.1em;
     font-family: 'Lato', sans-serif;
 }
 
 h1 {
-    font-size: 1.6em;
-    font-family: 'Lato';
-    color: #444;
     font-weight: normal;
+    font-size: 1.7em;
+    font-family: 'GentiumBasicRegular';
+    margin-top: 32px;
     margin-bottom: 0;
 
     border-bottom: 1px #DDD solid;
@@ -38,8 +35,8 @@ h1 {
 
 h2 {
     font-weight: normal;
-    font-size: 1.3em;
-    font-family: 'Lato';
+    font-size: 1.5em;
+    font-family: 'GentiumBasicRegular';
     margin-bottom: 0;
 }
 
@@ -72,22 +69,54 @@ code {
     font-size: 0.9em;
     font-weight: normal;
 
-    background: #FAFAFA;
-    border: 1px solid #EEE;
-    border-radius: 2px;
+    background: #F8F8F8;
+    border: 1px solid #EEEEEE;
+    border-radius: 3px;
 }
 
-/* Remove header and slideshow */
-#header, #slideshow {
-    display: none;
+
+/* ### HEADER ### */
+
+#header {
+    height: 32px;
+    width: 100%;
+    
+    background: #1B1B1B;
+    font-size: 0.9em;
+}
+
+#headeritems {
+    width: 1024px;
+    height: 32px;
+    margin: auto;
+
+    border-bottom: 1px solid #1B1B1B;
+}
+
+.headeritem {
+    margin-top: 6px;
+    margin-right: 24px;
+    float: left;
+}
+
+a.headeritem {
+    color: #CCC;
+}
+
+a.headeritem:hover {
+    color: #EEE;
+    text-decoration: none;
 }
 
 /* ### LOGO ### */
 #logo-and-menu {
+    width: 100%;
     height: 112px;
 
-    margin-top: 8px;
-    color: #FFF;
+    padding-top: 4px;
+    
+    background-image: url('../img/noise_blue.png');
+    border-bottom: 2px solid #0080FF;
 }
 
 #logo-container {
@@ -100,22 +129,18 @@ code {
     float: left;
     padding-right: 20px;
     margin-bottom: -10px;
+    margin-top: 10px;
 
-    font-family: 'hallo-sans-light';
-    font-weight: 100;
-    font-size: 4em;
-
-    color: #FFF;
-}
-
-#logo:hover {
-    text-decoration: none;
+    font-family: 'GentiumBasicRegular';
+    font-size: 68px;
+    color: #1B1B1B;
 }
 
 #description {
-    font-size: 1.4em;
-    padding-top: 36px;
-    font-family: 'hallo-sans';
+    font-size: 24px;
+    padding-top: 38px;
+    font-family: 'GentiumBasicRegular';
+    color: #181818;
 }
 
 /* ### MENU ### */
@@ -130,20 +155,20 @@ code {
 }
 
 .menuitem {
-    margin-right: 12px;
+    padding-right: 12px;
     margin-top: 14px;
     float: left;
     
-    color: #FFF;
+    color: #F8F8F8;
 }
 
 a.menuitem:hover {
-    border-bottom: 1px solid #FFF;
+    color: #1B1B1B;
     text-decoration: none;
 }
 
 #active {
-    border-bottom: 1px solid #FFF;
+    color: #1B1B1B;
 }
 
 #passive {
@@ -151,7 +176,6 @@ a.menuitem:hover {
 }
 
 #home {
-    display: none;
     height: 32px;
     width: 32px;
     
@@ -166,6 +190,17 @@ a.menuitem:hover {
     background: transparent url('../img/home_dark.png') center top no-repeat;
 }
 
+/* ### SLIDESHOW ### */
+
+#slideshow {
+    width: 1024px;
+    height: 256px;
+    margin: auto;
+    margin-top: 32px;
+    
+    background: #F8F8F8;
+}
+
 /* ### CONTENT ### */
 
 #content {
@@ -174,25 +209,22 @@ a.menuitem:hover {
 }
 
 #content-container {
-    margin-top: 18px;
+    margin-top: 16px;
 
     padding-left: 16px;
     padding-right: 16px;
-    padding-top: 8px;
+    padding-top: 0px;
     padding-bottom: 32px;
 
     background: #FFF;
 
-    border: 1px #FFF solid;
-    border-radius: 3px;
+    border: 2px #EEE solid;
 }
 
 /* ### HOMEPAGE ### */
 #about_blockstorm {
-    font-size: 2.8em;
-    font-family: "LatoLight";
+    font-size: 2.2em;
     text-align: center;
-    color: #444;
 }
 
 #overview {
@@ -213,8 +245,6 @@ a.menuitem:hover {
 
     list-style: none;
 
-    color: #444;
-    
     border-top: 1px #D8D8D8 solid;
     border-left: 1px #D8D8D8 solid;
     border-right: 1px #BBB solid;
@@ -226,11 +256,6 @@ a.menuitem:hover {
 }
 
 .overview-item h2 {
-    font-family: "Lato";
-    font-size: 1.2em;
-
-    color: #333;
-    
     margin: 8px;
 }
 
