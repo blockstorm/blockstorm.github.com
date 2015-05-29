@@ -188,11 +188,30 @@ a.menuitem:hover {
 }
 
 /* ### HOMEPAGE ### */
-#about_blockstorm {
+#welcome {
     font-size: 2.8em;
     font-family: "LatoLight";
     text-align: center;
     color: #444;
+    border-bottom: 0px;
+}
+
+#apply {
+    margin-top: 14px;
+    margin-bottom: 18px;
+
+    padding: 8px;
+    
+    font-family: "LatoLight";
+    font-size: 1.6em;
+    text-align: center;
+
+    border-top: 1px #D8D8D8 solid;
+    border-bottom: 1px #D8D8D8 solid;
+}
+
+#apply a {
+    
 }
 
 #overview {

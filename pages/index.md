@@ -1,4 +1,8 @@
-<h1 id="about_blockstorm">Welcome to Blockstorm!</h1>
+<h1 id="welcome">Welcome to Blockstorm</h1>
+
+<div id="apply">
+  We are looking for new players! <a href="https://docs.google.com/forms/d/1o81oDyd-liO91HBlWSPqdiJURVBh83R3sGCYFOhUDPs/viewform?usp=send_form">Get whitelisted</a>
+</div>
 
 <ul id="overview">
 
@@ -25,9 +29,9 @@
   </li>
 
   <li class="overview-item">
-    <h2>Getting around</h2>
+    <h2>Worlds</h2>
     <p>
-      Additionally to the portals and <code>[teleporter]</code> signs at spawn every player can set up to ten homes.
+	There are three worlds for three different kinds of gameplay: Survival, PvP and Freebuild.
     </p>	
   </li>
 
