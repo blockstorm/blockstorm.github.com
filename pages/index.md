@@ -1,8 +1,5 @@
 <h1 id="welcome">Welcome to Blockstorm</h1>
 
-<div id="apply">
-  We are looking for new players! <a href="https://docs.google.com/forms/d/1o81oDyd-liO91HBlWSPqdiJURVBh83R3sGCYFOhUDPs/viewform?usp=send_form">Get whitelisted</a>
-</div>
 
 <ul id="overview">
 
