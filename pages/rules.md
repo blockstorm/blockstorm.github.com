@@ -2,7 +2,8 @@
 ============
 
 1. **Respect other players**  
-Only grief, kill and steal in the PvP world. Don't lock anyone's chests or doors. Don't build too close to other players.  
+Only grief, kill and steal in the PvP world. Don't lock anyone's chests or doors.  
+Don't build too close to other players.  
 
 2. **Don't cheat**  
 No x-raying, fly hacks, auto-clickers etc. If you find a bug don't exploit it.

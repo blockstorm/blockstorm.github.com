@@ -10,19 +10,12 @@
   [md]
   (. prcssr markdownToHtml md))
 
-(defn menu-item
-  "Creates a menu item"
+(defn nav-item
+  "Creates a navigation item"
   [name loc title]
   (link-to
-   {:class "menuitem"  :id
+   {:class "nav-item"  :id
     (if (.equalsIgnoreCase name title) "active" "passive")}
-   loc title))
-
-(defn header-item
-  "Creates a header item"
-  [loc title]
-  (link-to 
-   {:class "headeritem"}
    loc title))
 
 (defn generate-page
@@ -34,60 +27,27 @@
   ([name content]
      (html5
       [:head
-       [:title "Blockstorm"]
+       [:title (str "Blockstorm - " name)]
        (include-css "./css/style.css")
-       (include-css "./css/fonts.css")
+       (include-css "http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic&subset=latin,latin-ext")
+       (include-css "http://fonts.googleapis.com/css?family=Arvo:400,400italic,700italic")
+       (include-css "http://fonts.googleapis.com/css?family=Cousine")
        (include-js "./js/jquery-1.7.2.min.js")
        (include-js "./js/script.js")
        (include-js "./js/analytics.js")]
       [:body
        [:div#header ; header
-        [:div#headeritems
-         (header-item "/" "Home")
-         (header-item
-          "http://www.youtube.com/user/blockstormcom"
-          "YouTube")
-         (header-item
-          "http://play.blockstorm.com:8123"
-          "dynmap")
-         (header-item
-          "http://minecraft.nitrado.net/map/217.198.139.154/"
-          "static map")
-         (header-item
-          "http://www.planetminecraft.com/server/playblockstormcom/"
-          "planetminecraft")
-         (header-item
-          "https://minestatus.net/10335-blockstorm-com"
-          "minestatus.net")
-         (header-item
-          "http://minecraftservers.org/server/119052"
-          "minecraftservers.org")
-         (header-item
-          "http://minecraft-server-list.com/server/103935/"
-          "minecraft-server-list.com")]]
-       [:div#logo-and-menu
-        [:div#logo-container ; logo
-         [:a#logo {:href "index.html"} "Blockstorm"]
-         [:div#description
-          "play.blockstorm.com - Minecraft Server since 2011"]]
-        [:div#menu ; menu
-         [:a#home {:href "index.html"}]
-         (menu-item name "news.html" "News")
-         (menu-item name "map.html" "Map")
-         (menu-item name "donate.html" "Donate")
-         (menu-item name "vote.html" "Vote")
-         (menu-item name "rules.html" "Rules")
-         (menu-item name "shops.html" "Shops")
-         ;;(menu-item name "market.html" "Market")
-         (menu-item name "crafting.html" "Crafting")
-         (menu-item name "ranks.html" "Ranks")
-         (menu-item name "moderator.html" "Moderator")
-         (menu-item name "ban.html" "Ban")
-         (menu-item name "about.html" "About")]]
-        (if (.equalsIgnoreCase name "index")
-         [:div#slideshow ; slideshow
-          (image {:id "current-image"}
-                 "./img/slideshow08.png" "Slideshow")])
+        [:div#headercontent
+         (link-to {:id "blockstorm"} "./index.html" "Blockstorm")
+         [:div#navigation
+          (nav-item name "news.html" "News")
+          (nav-item name "map.html" "Map")
+          (nav-item name "donate.html" "Donate")
+          (nav-item name "vote.html" "Vote")
+          (nav-item name "rules.html" "Rules")
+          (nav-item name "ban.html" "Ban")
+          (nav-item name "wiki.html" "Wiki")]
+         [:div#ip "play.blockstorm.com"]]]
        [:div#content.shadow ; content
         [:div#content-container content]]])))
 

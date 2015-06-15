@@ -40,3 +40,7 @@ ls
 (generate)
 exit
 (generate)
+(load-ns 'generator.core)
+(load 'generator.core)
+(load "generator.core")
+(generate)

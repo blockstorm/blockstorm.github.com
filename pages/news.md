@@ -1,3 +1,12 @@
+Some updates
+============
+
+*15 June 2015*
+
+The iConomy plugin which we used to handle money on the server is no longer receiving updates. This wasn't a problem until Mojang allowed players to change their usernames. Now when a player changes their name they lose all their money. Because there won't be an update to fix that I installed a different economy plugin. As a result all accounts are reset to 1000 coins.
+
+The shop plugin was updated as well. It should be easier to search for and sell items now. For instructions on how to use it just type `/shop` in-game.
+
 New world for 1.8
 =================
 
