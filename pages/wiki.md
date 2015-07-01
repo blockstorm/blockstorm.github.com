@@ -54,7 +54,7 @@ Moderators moderate the server. They can
 - promote players
 - `/kick` 
 - `/freeze`
-- `/slab`
+- `/slap`
 
 ### Admin
 Admins can do pretty much everything.
