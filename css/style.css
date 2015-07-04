@@ -13,38 +13,40 @@ body {
 }
 
 h1 {
-    font-family: 'Arvo', serif;
-    font-size: 1.6em;
-    font-weight: normal;
-    
-    color: #333;
-
-    padding-bottom: 2px;
-    border-bottom: 1px solid #CCC;
-}
-
-h2 {
-    font-family: 'Arvo', serif;
+    font-family: 'Roboto Slab', serif;
     font-size: 1.4em;
     font-weight: normal;
     
-    color: #222;
+    color: #4285F4;
 
     padding-bottom: 2px;
-    border-bottom: 1px solid #CCC;
+    border-bottom: 1px solid #DDD;
+}
+
+h2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.4em;
+    font-weight: normal;
+    
+    color: #333;
+
+    padding-bottom: 2px;
+    border-bottom: 1px solid #DDD;
 }
 
 h3 {
-    font-family: 'Lato', serif;
+    font-family: 'Roboto Slab', serif;
     font-size: 1.2em;
     font-weight: bold;
     
-    color: #333;
+    color: #383838;
+
+    margin-bottom: -6px;
 }
 
 a {
     text-decoration: none;
-    color: #0070DD;
+    color: #4285F4;
 }
 
 code {
@@ -71,7 +73,7 @@ ol ol{
 }
 
 #headercontent{
-    width: 860px;
+    width: 912px;
     height: 42px;
     margin: auto;
 
@@ -86,7 +88,7 @@ ol ol{
     //color: #FFF;
     color: #4285F4;
     font-size: 1.5em;
-    font-family: 'Arvo', serif;
+    font-family: 'Roboto Slab', serif;
 }
 
 #ip {
@@ -96,8 +98,8 @@ ol ol{
 
     color: #444;
     
-    font-family: 'Arvo', serif;
-    font-weight: bold;
+    font-family: 'Roboto Slab', serif;
+    font-weight: normal;
 }
 
 
@@ -132,9 +134,9 @@ ol ol{
     margin: auto;
     margin-top: 32px;
     
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-top: 8px;
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 22px;
     padding-bottom: 32px;
     
     background: #FFF;

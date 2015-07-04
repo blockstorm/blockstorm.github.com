@@ -1,6 +1,5 @@
-# Wiki
 
-###Contents
+# Contents
 
 * [Ranks](#ranks)
 * [Worlds](#worlds)
@@ -8,7 +7,7 @@
 * [Crafting](#crafting)
 
 
-## <a name="ranks"></a>Ranks
+# <a name="ranks"></a>Ranks
 
 ### Guest
 New players have the Guest rank until a member of the staff promotes them. Guests can't build or use most commands.
@@ -57,9 +56,9 @@ Moderators moderate the server. They can
 - `/slap`
 
 ### Admin
-Admins can do pretty much everything.
+Admins can do pretty much everything. 
 
-## <a name="worlds"></a>Worlds
+# <a name="worlds"></a>Worlds
 
 ### Survival
 The survival world is for playing Vanilla Minecraft with the addition of some plugins. PvP is disabled in this world.
@@ -70,7 +69,7 @@ The PvP world is for players to fight against each other. You have a different i
 ### Freebuild
 In Freebuild you have creative gamemode. You can build whatever you want here as long as you follow the rules.
 
-## <a name="shop"></a>Shop
+# <a name="shop"></a>Shop
 
 There is a shop command. If you forget how to use it just type `/shop` in-game.
 
@@ -79,7 +78,7 @@ There is a shop command. If you forget how to use it just type `/shop` in-game.
 - `/shop buy <amount> <item>` buys `<amount>` of `<item>`
 - `/shop sell` sells the item(s) you're holding in your hand
 
-## <a name="crafting"></a>Crafting
+# <a name="crafting"></a>Crafting
 Here is a list of all custom crafting recipes:
 
 ###Iron Horse Armor

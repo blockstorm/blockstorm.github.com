@@ -30,8 +30,8 @@
        [:title (str "Blockstorm - " name)]
        (include-css "./css/style.css")
        (include-css "http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic&subset=latin,latin-ext")
-       (include-css "http://fonts.googleapis.com/css?family=Arvo:400,400italic,700italic")
        (include-css "http://fonts.googleapis.com/css?family=Cousine")
+       (include-css "http://fonts.googleapis.com/css?family=Roboto+Slab:400,700")
        (include-js "./js/jquery-1.7.2.min.js")
        (include-js "./js/script.js")
        (include-js "./js/analytics.js")]
