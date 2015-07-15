@@ -8,4 +8,4 @@ You can vote for the server on these pages:
 - [minecraft-server-list.com] (http://minecraft-server-list.com/server/103935/) (once a day)
 - [minecraftservers.org] (http://minecraftservers.org/server/119052) (once a day)
 
-Just enter your username and fill in the captcha. For every vote your iConomy account will be credited with 50$.
+For every vote you will receive a randomized reward.
