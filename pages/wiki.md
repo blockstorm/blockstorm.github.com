@@ -3,7 +3,6 @@
 
 * [Ranks](#ranks)
 * [Worlds](#worlds)
-* [Shop](#shop)
 * [Crafting](#crafting)
 
 
@@ -14,46 +13,84 @@ New players have the Guest rank until a member of the staff promotes them. Guest
 
 ### Member
 Members can use most commands and build in all worlds.
-Here is a list of commands members can use:
 
-- `/warp`
-- `/warps list`
-- `/who`
-- `/motd`
-- `/rules`
-- `/afk`
-- `/spawn`
-- `/tpa`
-- `/return`
-- `/broadcast`
-- `/me`
-- `/msg`
-- `/whereami`
-- `/clear` - This removes all items from your inventory
-- `/slap`
-- `/slay` - This will kill you
+General:
+
+- `/rules` - displays the rules
+- `/motd` - displays the MOTD
+- `/afk` - sets your status to afk
+- `/whereami` - tells you where you are
+- `/list` - lists online players
+- `/clear` - this removes all items from your inventory
+- `/slap` - does exactly what it says
+- `/slay` - this will kill you
+
+Messages:
+
+- `/broadcast` - broadcasts a message on the server
+- `/msg <player> <message>` - sends `<player>` a private message
+- `/me <message>` - displays a message in chat
+
+Teleporting:
+
+- `/warp <warp>` - teleports you to a warp
+- `/warps list` - lists all available warps
+- `/spawn` - teleports you to spawn
+- `/tpa <player>` - requests a teleport from `<player>`
+- `/return` - teleports you back to your last location
+
+Home commands:
+
+- `/sethome` - sets your home
+- `/home` - teleports you to your home
+- `/sethome <name>` - sets a home with `<name>`
+- `/home <name>` - teleports you to your home with `<name>`
+
+Shop Commands:
+
+- `/shop search <term>` - searches the shop for items containing `<term>`  
+  e.g. `/shop search diamond` lists diamond, diamond block, diamond tools, ...
+- `/shop price <amount> <item>` tells you how much `<amount>` of `<item>` costs. 
+  e.g. `/shop price 3 diamond` tells you the price of 3 diamonds
+- `/shop buy <amount> <item>` buys `<amount>` of `<item>`  
+  e.g. `/shop buy 3 diamond` buys 3 diamonds
+- `/shop sell` sells the item(s) you're holding in your hand
 
 LWC Commands:
 
-- `/cprivate` to create a private protection
-- `/cpublic` to create a public protection
-- `/cremove` to remove a protection
+- `/cprivate` - creates a private protection
+- `/cpublic` - creates a public protection
+- `/cremove` - removes a protection
 
-Shop commands:
-see [Shop](#shop)
+mcMMO Commands:
+
+- `/mcstats` - shows your mcMMO stats and XP
+- `/mcrank` - displays your personal rankings
+- `/mctop` - displays leaderboard
+
+MobArena Commands:
+
+- `/ma join` - to join the MobArena
+- `/ma leave` - to leave the MobArena
+- `/ma spectate` - to spectate
 
 (Did I forget any?)
 
 ### Donor
-When you donate to Blockstorm your rank is changed to Donor. Currently donors can't do much more than members.
+When you donate to Blockstorm your rank is changed to Donor.
+
+- Donors can use WorldEdit in Freebuild
 
 ### Moderator
-Moderators moderate the server. They can
+Moderators moderate the server. They can use:
 
-- promote players
-- `/kick` 
-- `/freeze`
-- `/slap`
+- `/pex promote <player>`
+- `/teleport <player>`
+- `/kick <player> [reason]` 
+- `/freeze <player>`
+- `/slap <player>`
+- `/lb lookup`
+- `/lb toolblock`
 
 ### Admin
 Admins can do pretty much everything. 
@@ -69,14 +106,6 @@ The PvP world is for players to fight against each other. You have a different i
 ### Freebuild
 In Freebuild you have creative gamemode. You can build whatever you want here as long as you follow the rules.
 
-# <a name="shop"></a>Shop
-
-There is a shop command. If you forget how to use it just type `/shop` in-game.
-
-- `/shop search <term>` searches the shop for items containing `<term>`
-- `/shop price <amount> <item>` tells you how much `<amount>` of `<item>` costs.
-- `/shop buy <amount> <item>` buys `<amount>` of `<item>`
-- `/shop sell` sells the item(s) you're holding in your hand
 
 # <a name="crafting"></a>Crafting
 Here is a list of all custom crafting recipes:
