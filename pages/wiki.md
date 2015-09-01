@@ -50,7 +50,7 @@ Shop Commands:
 
 - `/shop search <term>` - searches the shop for items containing `<term>`  
   e.g. `/shop search diamond` lists diamond, diamond block, diamond tools, ...
-- `/shop price <amount> <item>` tells you how much `<amount>` of `<item>` costs. 
+- `/shop price <amount> <item>` tells you how much `<amount>` of `<item>` costs.  
   e.g. `/shop price 3 diamond` tells you the price of 3 diamonds
 - `/shop buy <amount> <item>` buys `<amount>` of `<item>`  
   e.g. `/shop buy 3 diamond` buys 3 diamonds
@@ -60,6 +60,7 @@ LWC Commands:
 
 - `/cprivate` - creates a private protection
 - `/cpublic` - creates a public protection
+- `/cmodify <player>` - gives `<player>` access to the protection
 - `/cremove` - removes a protection
 
 mcMMO Commands:
