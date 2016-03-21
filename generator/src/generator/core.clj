@@ -23,7 +23,7 @@
   ([file]
      (generate-page
       (.replaceFirst (.getName file) "[.][^.]+$" "")
-      (slurp (.getAbsolutePath file))))              
+      (slurp (.getAbsolutePath file))))
   ([name content]
      (html5
       [:head
@@ -45,11 +45,13 @@
           (nav-item name "donate.html" "Donate")
           (nav-item name "vote.html" "Vote")
           (nav-item name "rules.html" "Rules")
-          (nav-item name "ban.html" "Ban")
-          (nav-item name "wiki.html" "Wiki")]
+          (nav-item name "wiki.html" "Wiki")
+          (nav-item name "contact.html" "Contact")]
          [:div#ip "play.blockstorm.com"]]]
-       [:div#content.shadow ; content
-        [:div#content-container content]]])))
+       (if (= name "index")
+         content
+         [:div#content.shadow ; content
+          [:div#content-container content]])])))
 
 (defn generate-pages
   "Generates pages, returns list of names"

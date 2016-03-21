@@ -16,7 +16,7 @@ h1 {
     font-family: 'Roboto Slab', serif;
     font-size: 1.4em;
     font-weight: normal;
-
+    
     color: #4285F4;
 
     padding-bottom: 2px;
@@ -27,7 +27,7 @@ h2 {
     font-family: 'Roboto Slab', serif;
     font-size: 1.4em;
     font-weight: normal;
-
+    
     color: #333;
 
     padding-bottom: 2px;
@@ -38,7 +38,7 @@ h3 {
     font-family: 'Roboto Slab', serif;
     font-size: 1.2em;
     font-weight: bold;
-
+    
     color: #383838;
 
     margin-bottom: -6px;
@@ -72,11 +72,8 @@ ul li {
     width: 100%;
     height: 42px;
 
-    background: rgba(255, 255, 255, 1);
-    border-bottom: 2px solid #0080FF;
-
-    position: fixed;
-    top: 0;
+    background: #FFF;
+    border-top: 2px solid #0080FF;
 }
 
 #headercontent{
@@ -89,9 +86,10 @@ ul li {
 #blockstorm {
     margin-top: 5px;
     margin-right: 14px;
-
+    
     float: left;
 
+    //color: #FFF;
     color: #4285F4;
     font-size: 1.5em;
     font-family: 'Roboto Slab', serif;
@@ -103,10 +101,9 @@ ul li {
     float: right;
 
     color: #444;
-
+    
     font-family: 'Roboto Slab', serif;
     font-weight: normal;
-    font-size: 1.1em;
 }
 
 
@@ -114,17 +111,18 @@ ul li {
 
 #navigation {
     padding-top: 12px;
+    
+    font-family: 'Lato', sans;
+    color: #333;
 }
 
 
 .nav-item {
     float: left;
-
+    
     margin-left: 14px;
+    
     color: #333;
-
-    font-family: 'Lato', sans;
-    font-size: 1.1em;
 }
 
 #active {
@@ -136,15 +134,15 @@ ul li {
 
 #content{
     width: 828px;
-
+    
     margin: auto;
-    margin-top: 84px;
-
+    margin-top: 32px;
+    
     padding-left: 42px;
     padding-right: 42px;
     padding-top: 22px;
     padding-bottom: 32px;
-
+    
     background: #FFF;
     border: 1px #FFF solid;
     border-radius: 1px;
@@ -155,36 +153,7 @@ ul li {
 }
 
 /* ### HOMEPAGE ### */
-#homepage {
-    width: 828px;
 
-    margin: auto;
-    margin-top: 128px;
-
-    color: #FFF;
-    text-align: center;
-}
-
-#title {
-    font-size: 6.85em;
-    font-weight: bold;
-    font-family: 'Roboto Slab', serif;
-    text-shadow: 0 3px 1px rgba(20, 20, 20, 0.3);
-}
-
-#subtitle {
-    color: #FFF;
-    font-style: italic;
-    font-size: 1.8em;
-    font-family: 'Lato', sans-serif;
-    text-shadow: 0 1px 1px rgba(20, 20, 20, 0.4);
-}
-
-#email {
-  margin-top: 128px;
-  font-size: 1.2em;
-  font-style: italic;
-}
 
 /* ### MAP ### */
 #map {
@@ -196,23 +165,20 @@ ul li {
 .staff_member {
     width: 118px;
     float: left;
-    text-align: center;
+
 }
 
 .staff_member img {
-    -webkit-filter: drop-shadow(0px 0px 6px);
-    margin-bottom: 8px;
+    margin-left: 19px;
 }
 
 .name {
     text-align: center;
     margin-bottom: 0;
     font-weight: bold;
-    font-family: 'Roboto Slab';
 }
 
 .rank {
     margin-top: 0;
     text-align: center;
-    font-size: 0.9em;
 }

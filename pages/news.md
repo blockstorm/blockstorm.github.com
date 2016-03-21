@@ -1,3 +1,10 @@
+Minecraft 1.9
+=============
+
+*19 March 2016*
+
+The server is updated to 1.9. All plugins except MobArena and CraftBook should work. There is a new world for 1.9 called `survival05`. To get there first go to the hub (`/warp hub`) and then walk through the portal that has "1.9 SURVIVAL" written above it.
+
 Some updates
 ============
 

@@ -1,5 +1,4 @@
-<h1 id="welcome">Welcome to Blockstorm</h1>
-
-I guess I should put something here.
-
-... maybe a slideshow.
+<div id="homepage">
+    <div id="title">Blockstorm</div>
+    <div id="subtitle">play.blockstorm.com - Minecraft server since 2011</div>
+</div>
