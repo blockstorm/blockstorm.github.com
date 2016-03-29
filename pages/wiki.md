@@ -47,6 +47,7 @@ Home commands:
 - `/sethome <name>` - sets a home with `<name>`
 - `/home <name>` - teleports you to your home with `<name>`
 - `/deletehome <name>` - deletes the home
+- `/homes` - lists your homes
 
 Shop Commands:
 
